@@ -34,3 +34,7 @@ D:\Projects\Stablo\Stablo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.d
 D:\Projects\Stablo\Stablo\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
 D:\Projects\Stablo\Stablo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 D:\Projects\Stablo\Stablo\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Projects\Stablo\Stablo\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Projects\Stablo\Stablo\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\Stablo\Stablo\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\Projects\Stablo\Stablo\obj\Debug\netcoreapp3.1\Stablo.WebApi.MvcApplicationPartsAssemblyInfo.cache
