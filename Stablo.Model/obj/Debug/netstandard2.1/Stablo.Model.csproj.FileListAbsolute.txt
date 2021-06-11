@@ -1,0 +1,9 @@
+D:\Projects\Stablo\Stablo.Model\bin\Debug\netstandard2.1\Stablo.Model.deps.json
+D:\Projects\Stablo\Stablo.Model\bin\Debug\netstandard2.1\Stablo.Model.dll
+D:\Projects\Stablo\Stablo.Model\bin\Debug\netstandard2.1\Stablo.Model.pdb
+D:\Projects\Stablo\Stablo.Model\obj\Debug\netstandard2.1\Stablo.Model.csproj.AssemblyReference.cache
+D:\Projects\Stablo\Stablo.Model\obj\Debug\netstandard2.1\Stablo.Model.AssemblyInfoInputs.cache
+D:\Projects\Stablo\Stablo.Model\obj\Debug\netstandard2.1\Stablo.Model.AssemblyInfo.cs
+D:\Projects\Stablo\Stablo.Model\obj\Debug\netstandard2.1\Stablo.Model.csproj.CoreCompileInputs.cache
+D:\Projects\Stablo\Stablo.Model\obj\Debug\netstandard2.1\Stablo.Model.dll
+D:\Projects\Stablo\Stablo.Model\obj\Debug\netstandard2.1\Stablo.Model.pdb

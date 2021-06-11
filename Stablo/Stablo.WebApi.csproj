@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
@@ -23,12 +23,34 @@
     <PackageReference Include="Autofac" Version="6.2.0" />
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational.Design" Version="1.1.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.NETCore.App" Version="2.2.8" />
     <PackageReference Include="Npgsql" Version="5.0.5" />
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="5.0.6" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL.Design" Version="1.1.0" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Controllers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Stablo.Common\Stablo.Common.csproj" />
+    <ProjectReference Include="..\Stablo.DAL\Stablo.DAL.csproj" />
+    <ProjectReference Include="..\Stablo.Model.Common\Stablo.Model.Common.csproj" />
+    <ProjectReference Include="..\Stablo.Model\Stablo.Model.csproj" />
+    <ProjectReference Include="..\Stablo.Repository.Common\Stablo.Repository.Common.csproj" />
+    <ProjectReference Include="..\Stablo.Repository\Stablo.Repository.csproj" />
+    <ProjectReference Include="..\Stablo.Service.Common\Stablo.Service.Common.csproj" />
+    <ProjectReference Include="..\Stablo.Service\Stablo.Service.csproj" />
   </ItemGroup>
 
 
